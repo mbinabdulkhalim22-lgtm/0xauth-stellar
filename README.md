@@ -1,4 +1,4 @@
-# 0xAuth Stellar Contracts
+README# 0xAuth Stellar Contracts
 
 ## Project Structure
 
