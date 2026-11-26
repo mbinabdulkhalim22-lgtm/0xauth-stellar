@@ -1,4 +1,4 @@
-#!/bin/bash
+##!/bin/bash
 
 # Deploy Claim Issuer Contract with the wasm hash
 echo "Deploying Claim Issuer Contract..."
