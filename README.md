@@ -1,6 +1,6 @@
-README# 0xAuth Stellar Contracts
+# 0xAuth Stellar Contracts
 
-README## Project Structure
+## Project Structure
 
 This repository uses the recommended structure for a Soroban project:
 ```text
